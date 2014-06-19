@@ -6,4 +6,9 @@ Since some people have issues with getting Salvattore to work, Here's a template
 
 Demo - http://udithishara.github.io/SalvattorePortfolioTemplate
 
-Credit me if you want to.
+Credits:
+
+	Css Reset - @html5doctor
+	Placeholders - http://placehold.it
+	Salvattore.js - @salvattorejs
+	Template Setup - @UdithIshara ( if you want to )
